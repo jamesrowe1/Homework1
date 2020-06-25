@@ -11,7 +11,7 @@
 
 2. All CSS elements were reordered to make logical sense
 
-3.Images had alt elements added
+3. Images had alt elements added
 
 4. Title was given descriptive concise title
 
