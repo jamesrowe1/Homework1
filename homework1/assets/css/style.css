@@ -31,9 +31,9 @@ header h1 mark {
 }
 
 /* removed . as this is now a semantic tag in index */
-header div {
+header nav {
   padding-top: 15px;
-  /* margin-right: 20px; */
+  margin-right: 20px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
@@ -41,19 +41,23 @@ header div {
 
 /* removed . as this is now a semantic tag in index */
 /* I don't think this does anything... */
-header div ul {
+/* doesn't do anything anymore with nav */
+/* header nav {
   list-style-type: none;
-}
+} */
 
 /* removed . as this is now a semantic tag in index */
-header div ul li {
+/* doesn't do anything anymore with nav */
+/* header nav {
   display: inline-block;
   margin-left: 25px;
-}
+} */
 
+/* put a margin in here to make up for losing the li */
 a {
   color: #ffffff;
   text-decoration: none;
+  margin-left: 25px;
 }
 
 p {
