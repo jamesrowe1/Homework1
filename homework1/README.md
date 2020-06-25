@@ -16,3 +16,5 @@
 4. Title was given descriptive concise title
 
 5. removed unneccessary </img>
+
+6. removed redundant id
